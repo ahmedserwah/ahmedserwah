@@ -9,7 +9,7 @@
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
-👔  [email](ahmedserwah2018@gmail.com) :)
+👔 [email](mailto:abhishek.naidu@cred.club) :)
 
 [website]: https://bradgarropy.com
 [linkedin]: https://www.linkedin.com/in/ahmedserwah/
