@@ -9,7 +9,7 @@
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
-👔 [gmail][gmail]
+👔 [gmail] [gmail]
 
 [website]: https://bradgarropy.com
 [linkedin]: https://www.linkedin.com/in/ahmedserwah/
