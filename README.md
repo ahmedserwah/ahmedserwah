@@ -1,5 +1,5 @@
 ### Hi,THERE👋
-             Iam a data analyst, bi developer 
+             Iam a data analyst
 
 - 👋 Hi, I’m @ahmedserwah
 - 👀 I’m interested in Data Analysis projects using python,sql and power bi
