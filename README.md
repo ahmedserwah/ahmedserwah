@@ -1,6 +1,5 @@
 ### Hi,THERE👋
-             hold a bachelor's degree in business information system "bis" with a major in statistics passionate about data-driven analytics to solve complex problems, innovate new services and products, optimize processes, and design human-centered experiences. Highly skilled in Python, SQL, and data visualization tools.
-
+             
 
 - 👋 Hi, I’m @ahmedserwah
 - 👀 I’m interested in Data Analysis projects using python,sql and power bi
